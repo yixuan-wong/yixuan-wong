@@ -4,7 +4,7 @@
 
 ## 💼 Projects and Experience
 
-- **TAG-dev App**: Developing a SwiftUI social app inspired by BeReal, focusing on friend connections and interactive UI elements.
+- **TAG App**: Developing a SwiftUI social app inspired by BeReal, focusing on friend connections and interactive UI elements.
 - **Instagram Followers App**: Built a tool to track and analyze followers using data parsing from HTML files, enhancing insights for user engagement.
   
 ## 🔧 Technologies & Skills
@@ -23,6 +23,6 @@
 ## 📬 Get in Touch
 
 - LinkedIn: [linkedin.com/in/yixuanwong](https://linkedin.com/in/yixuanwong)
-- Email: yixuan.wong@cs.ucsb.edu
+- Email: yixuanwong@ucsb.edu
 
 I'm always open to discussing new ideas, collaboration on open-source projects, and networking with fellow developers. Looking forward to connecting!
