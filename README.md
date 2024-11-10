@@ -4,7 +4,7 @@
 
 ## 💼 Projects and Experience
 
-- **[TAG-dev App](https://github.com/YixuanWong/TAG-dev)**: Developing a SwiftUI social app inspired by BeReal, focusing on friend connections and interactive UI elements.
+- **TAG-dev App**: Developing a SwiftUI social app inspired by BeReal, focusing on friend connections and interactive UI elements.
 - **Instagram Followers App**: Built a tool to track and analyze followers using data parsing from HTML files, enhancing insights for user engagement.
   
 ## 🔧 Technologies & Skills
