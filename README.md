@@ -9,7 +9,7 @@
   
 ## 🔧 Technologies & Skills
 
-- **Languages**: C++, Python, R, SQL, Swift, Java, HTML/CSS
+- **Languages**: C++, Python, R, SQL, HTML/CSS
 - **Frameworks**: SwiftUI, Spring Boot, React
 - **Tools**: Git, Firebase, Dokku, GitHub Pages
 
