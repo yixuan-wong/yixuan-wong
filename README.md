@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yixuan Wong!
 
-🎓 I'm a 3rd-year Computer Science major at the University of California, Santa Barbara College of Engineering. With a strong interest in software development, data science, and systems programming, I'm constantly learning and building projects to refine my skills.
+🎓 I'm a 4th-year Computer Science and Statistics/Data Science major at the University of California, Santa Barbara College of Engineering. With a strong interest in software development, data science, and systems programming, I'm constantly learning and building projects to refine my skills.
 
 ## 💼 Projects and Experience
 
