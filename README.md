@@ -13,9 +13,9 @@
   
 ## 🔧 Technologies & Skills
 
-- **Languages**: Python, C++, Javascript (TypeScript), R, SQL (PostgreSQL), Swift, HTML/CSS
+- **Languages**: Python, C++, JavaScript (TypeScript), R, SQL (PostgreSQL), Swift, HTML/CSS
 - **Frameworks & Libraries**: FastAPI, Next.js, React, Gemini API, Sentence-Transformers, OpenCV, NumPy, Spring Boot
-- **Tools & Infrastructure**: Git, Github, Docker, Supabase, Linux (Ubuntu), Gunicorn, Vercel, Jupyter, Firebase, Dokku, GitHub Pages
+- **Tools & Infrastructure**: Git, GitHub, Docker, Supabase, Linux (Ubuntu), Gunicorn, Vercel, Jupyter, Firebase, Dokku, GitHub Pages
 
 ## 📊 Current Interests
 
